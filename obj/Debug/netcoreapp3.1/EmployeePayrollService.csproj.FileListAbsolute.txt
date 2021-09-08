@@ -1,0 +1,4 @@
+C:\Users\prakash kandula\source\repos\EmployeePayrollService\EmployeePayrollService\obj\Debug\netcoreapp3.1\EmployeePayrollService.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\EmployeePayrollService\EmployeePayrollService\obj\Debug\netcoreapp3.1\EmployeePayrollService.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\EmployeePayrollService\EmployeePayrollService\obj\Debug\netcoreapp3.1\EmployeePayrollService.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\EmployeePayrollService\EmployeePayrollService\obj\Debug\netcoreapp3.1\EmployeePayrollService.csproj.CoreCompileInputs.cache
